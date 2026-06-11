@@ -9,7 +9,7 @@ export default function Footer() {
       ref={ref}
     >
       <p><strong>Tirenauti</strong> — Culture in movimento.</p>
-      <p>&copy; 2026 Tutti i diritti riservati</p>
+      <p>&copy; {new Date().getFullYear()} Tutti i diritti riservati</p>
     </footer>
   )
 }

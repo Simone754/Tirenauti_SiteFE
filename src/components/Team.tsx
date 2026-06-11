@@ -14,7 +14,7 @@ const members: TeamMember[] = [
     name: 'Matteo Paris',
     role: 'Ideatore & Sponsor',
     email: 'Matteo.Paris@1500miglia.it',
-    color: 'var(--magenta)',
+    color: 'var(--blue)',
   },
   {
     initial: 'C',
